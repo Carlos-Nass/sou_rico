@@ -5,12 +5,12 @@ void main() {
       home: Scaffold(
         backgroundColor: Colors.black,
         appBar: AppBar(
-          title: const Text('Sou Rico'),
+          title: const Text('Sou Pobre d+'),
           backgroundColor: Colors.green,
         ),
         body: const Center(
           child: Image(
-            image: AssetImage('images/MicrosoftTeams-image.png'),
+            image: AssetImage('images/1f4b8.png'),
           ),
         ),
       )
